@@ -13,7 +13,7 @@
   
   
   
-<u><h3><font color=" blue"> In this site we will be knowing some steps on how to create a simple website using github.</u>
+<u><h3><font color=" blue"> In this site we will be knowing some steps on how to create a simple website using github.
   
    <ul type ="disc">
   <li>Create a GitHub account.
@@ -25,6 +25,7 @@
 <li>Share your website!<br>
   </font>
   </center>
+  <i>thanks for visiting my website......<i>
   </ul>
   </body>
   
