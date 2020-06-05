@@ -23,11 +23,7 @@
 <li>Copy your files to the new Repository folder. ...<br>
 <li>Publish your website. ...<br>
 <li>Share your website!<br>
-  </font>
-  </center>
-  <i>thanks for visiting my website......<i>
-  </ul>
-  </body>
   
-</html>
+  <i>thanks for visiting my website......</i>
+ 
   
